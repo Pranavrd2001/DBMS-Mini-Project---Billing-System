@@ -77,9 +77,16 @@ DBMS-Mini-Project---Billing-System/
 
 Output screenshots and the complete project report are in the [`Documentation`](./Documentation) folder.
 
-<!-- To show a screenshot here, replace the file name below with one from the Documentation folder:
-![Home Screen](./Documentation/your-screenshot-name.png)
--->
+<table>
+  <tr>
+    <td align="center"><b>🏠 Home Screen</b></td>
+    <td align="center"><b>📋 Order Table View</b></td>
+  </tr>
+  <tr>
+    <td><img src="./Documentation/Home%20Page.png" alt="Home Screen" width="400"></td>
+    <td><img src="./Documentation/Order%20Table%20View.png" alt="Order Table View" width="400"></td>
+  </tr>
+</table>
 
 ---
 
