@@ -83,8 +83,8 @@ Output screenshots and the complete project report are in the [`Documentation`](
     <td align="center"><b>📋 Order Table View</b></td>
   </tr>
   <tr>
-    <td><img src="./Documentation/Output%20Screenshots/Home%20Page.png" alt="Home Screen" width="400"></td>
-    <td><img src="./Documentation/Output%20Screenshots/Order%20Table%20View.png" alt="Order Table View" width="400"></td>
+    <td><img src="./Documentation/Output%20Screenshots/Home%20Page.PNG" alt="Home Screen" width="400"></td>
+    <td><img src="./Documentation/Output%20Screenshots/Order%20Table%20View.PNG" alt="Order Table View" width="400"></td>
   </tr>
 </table>
 
